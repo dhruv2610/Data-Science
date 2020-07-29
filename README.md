@@ -1,5 +1,5 @@
 # Data-Science
-### ||Still not better at statistics than some engineers and still not better at engineering than some statistician||
+### ||Still not better at statistics than some engineers and still not better at engineering than some statisticians||
 
 ## >>Customer Service Requests Analysis
 ## >>>Movielens Case Study
